@@ -1,0 +1,12 @@
+
+h1{
+    color: red;
+    font-size: 30px;
+    text-align: center;
+} 
+p{
+    color: blue;
+    font-size: 24px;
+    text-align: justify;
+}  /* Center align text */
+ 
